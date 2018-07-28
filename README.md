@@ -9,5 +9,5 @@ Simple quiz web app with user authentication that allows users to create their o
 * Db (using Entity Framework)
 * ASP Dotnet Core C#
 * Node / AngularJS
-
+* Angular Material
 
